@@ -4,8 +4,6 @@ points: 100
 tags: ["web"]
 ---
 
-// TODO 良い感じに書く
-
 `login in guest` ボタンをクリックすると、こんな感じのjwtが手に入る。
 
 - `eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJndWVzdCJ9.hwzUMPd20LkyVIieH_92ETWpJSLGnk3l7R03NWfUW-E`
