@@ -1,7 +1,7 @@
 ---
 title: "TrillionEther"
 points: N/A
-tags: ["blockchain"]
+tags: ["blockchain", "stuck"]
 ---
 
 ソースコードが渡されているので、まずはremix.ethereum.orgでこのスクリプトを動かす。
